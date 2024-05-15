@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Noam! 👋
 
-<!--
-**NoamHuna/NoamHuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineering student with a keen interest in [specific areas of software engineering you're interested in, e.g., web development, machine learning, etc.]. Currently, I'm in my third year, eager to dive into the world of software development and contribute to meaningful projects.
 
-Here are some ideas to get you started:
+## 🔭 Software projects
+- [Project 1](link): Short description
+- [Project 2](link): Short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+- Languages: C, C++, Python, Java, Java for Android, SQL, HTML, CSS, JS. 
+
+## 📫 How to reach me
+- Email: Noamhone@gmail.com
+- LinkedIn: https://www.linkedin.com/in/noam-huna-46a607226/
+
+## ⚡ Fun fact
+[Fun fact about yourself]
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 🌟 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post 1](link)
+- [Blog Post 2](link)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎧 Currently Listening to
+[Music or podcast you're currently enjoying]
+
