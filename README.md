@@ -1,6 +1,6 @@
 # Hi there, I'm Noam! 👋
 
-I'm a passionate software engineering student. Currently, I'm in my third year, eager to dive into the world of software development and contribute to meaningful projects.
+I'm a passionate software engineering student. Currently, I'm in my fourth year, eager to dive into the world of software development and contribute to meaningful projects.
 
 ## 🔭 Software projects
 - [Proxy Server](https://github.com/NoamHuna/proxyServer): This project implements a simple proxy server in C using a thread pool for handling multiple client requests concurrently.
